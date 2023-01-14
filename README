@@ -1,0 +1,7 @@
++--------+
+| FsInit |
++--------+
+
+    A script to initialize an F# project.
+
+    Usage: fsinit [project name] [project type] [test framework]
