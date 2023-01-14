@@ -1,3 +1,5 @@
+#!/usr/bin/env ocaml
+
 let _ =
   let project_name = Sys.argv.(1) in
   let project_type = Sys.argv.(2) in
